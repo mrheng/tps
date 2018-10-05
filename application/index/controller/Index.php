@@ -7,4 +7,7 @@ class Index
     {
         return '果子';
     }
+    public function news(){
+        return "gellllll";
+    }
 }
