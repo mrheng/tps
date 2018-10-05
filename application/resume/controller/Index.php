@@ -13,6 +13,6 @@ use think\Controller;
  */
 class Index extends Controller {
     public function home(){
-        echo 'guozi
+        echo 'guozi';
     }
 }
