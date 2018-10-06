@@ -13,7 +13,7 @@ use think\Controller;
  */
 class Index extends Controller {
     public function home(){
-        echo $this->fetch();
+        echo $this->fetch('Index/home');
     }
 }
 
